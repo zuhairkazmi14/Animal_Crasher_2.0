@@ -1,0 +1,7 @@
+﻿  AnimalCrush2.0.cpp
+D:\AnimalCrush2.0\AnimalCrush2.0\AnimalCrush2.0.cpp(65,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\AnimalCrush2.0\AnimalCrush2.0\AnimalCrush2.0.cpp(356,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\AnimalCrush2.0\AnimalCrush2.0\AnimalCrush2.0.cpp(356,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\AnimalCrush2.0\AnimalCrush2.0\AnimalCrush2.0.cpp(357,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\AnimalCrush2.0\AnimalCrush2.0\AnimalCrush2.0.cpp(357,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  AnimalCrush2.0.vcxproj -> D:\AnimalCrush2.0\x64\Debug\AnimalCrush2.0.exe
